@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\bin\Debug\net8.0\Polymorphism-Pratik.exe
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\bin\Debug\net8.0\Polymorphism-Pratik.deps.json
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\bin\Debug\net8.0\Polymorphism-Pratik.runtimeconfig.json
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\bin\Debug\net8.0\Polymorphism-Pratik.dll
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\bin\Debug\net8.0\Polymorphism-Pratik.pdb
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\obj\Debug\net8.0\Polymorphism-Pratik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\obj\Debug\net8.0\Polymorphism-Pratik.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\obj\Debug\net8.0\Polymorphism-Pratik.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\obj\Debug\net8.0\Polymorphism-Pratik.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\obj\Debug\net8.0\Polymorphism-Pratik.sourcelink.json
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\obj\Debug\net8.0\Polymorphism-Pratik.dll
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\obj\Debug\net8.0\refint\Polymorphism-Pratik.dll
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\obj\Debug\net8.0\Polymorphism-Pratik.pdb
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\obj\Debug\net8.0\Polymorphism-Pratik.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Polymorphism-Pratik\Polymorphism-Pratik\obj\Debug\net8.0\ref\Polymorphism-Pratik.dll
